@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/AhmedBinAltaha" width="200" style="border-radius:50%; box-shadow: 0px 0px 25px #9D00FF;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </p>
 
 
