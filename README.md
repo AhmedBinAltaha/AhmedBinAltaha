@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=2600&pause=1200&color=4E9AF1&center=true&vCenter=true&width=800&lines=Ahmed+Elsayed+Taha;Data+Scientist+%7C+Machine+Learning+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=48&duration=3500&pause=1200&color=FF00FF&center=true&vCenter=true&width=900&lines=Ahmed+Elsayed+Taha;Creator+of+AI+Models;Future+Machine+Learning+Architect" />
 </p>
 
 
