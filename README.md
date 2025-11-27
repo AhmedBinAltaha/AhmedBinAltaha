@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=32&duration=2500&pause=900&color=0A84FF&center=true&vCenter=true&width=750&lines=Ahmed+Elsayed+Taha;Junior+Data+Scientist;Machine+Learning+%7C+Deep+Learning+%7C+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=2600&pause=1200&color=4E9AF1&center=true&vCenter=true&width=800&lines=Ahmed+Elsayed+Taha;Data+Scientist+%7C+Machine+Learning+Engineer" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=28&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Ahmed+Elsayed+A.+Taha;Junior+Data+Scientist+%F0%9F%9A%80;Machine+Learning+%7C+Deep+Learning+%7C+AI" alt="Typing SVG" />
-</p>
+
 
 ---
 
