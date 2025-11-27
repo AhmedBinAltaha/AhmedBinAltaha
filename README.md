@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Anton&size=46&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Greeting;I am+Ahmed+Elsayed+Taha;Junior+Data+Scientist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Anton&size=46&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Welcome!;I'm+Ahmed+Elsayed+Taha;Junior+Data+Scientist" />
 </p>
-
 
 ---
 
