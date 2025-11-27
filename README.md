@@ -95,4 +95,8 @@ Here are some of my most important certifications:
 
 ---
 
-<p align="center">⭐️ Feel free to star my repo if you like my work!</p>
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&duration=3000&pause=1500&color=00C7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Feel+free+to+connect+with+me+on+LinkedIn+%F0%9F%94%97;Never+stop+learning+%F0%9F%8C%9F" />
+</p>
