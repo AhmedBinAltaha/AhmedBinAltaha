@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Anton&size=46&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Ahmed+Elsayed+Taha;Pushing+The+Limits+Of+AI;One+Model+At+A+Time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Anton&size=46&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Greeting;I am+Ahmed+Elsayed+Taha;Junior+Data+Scientist" />
 </p>
 
 
