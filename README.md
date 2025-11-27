@@ -4,9 +4,8 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWk1bWhwbmdibWV2Y2I4amUxamI1MXQ5dnBheGc4NGd4OXNybms2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ikwIgNIKa0Ni/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </p>
-
 
 
 ---
