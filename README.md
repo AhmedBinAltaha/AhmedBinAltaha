@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=32&duration=2500&pause=900&color=0A84FF&center=true&vCenter=true&width=750&lines=Ahmed+Elsayed+Taha;Junior+Data+Scientist;Machine+Learning+%7C+Deep+Learning+%7C+AI" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=28&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Ahmed+Elsayed+A.+Taha;Junior+Data+Scientist+%F0%9F%9A%80;Machine+Learning+%7C+Deep+Learning+%7C+AI" alt="Typing SVG" />
 </p>
