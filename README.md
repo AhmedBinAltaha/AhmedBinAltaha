@@ -4,8 +4,9 @@
 
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/AhmedBinAltaha" width="180" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/AhmedBinAltaha" width="200" style="border-radius:50%; box-shadow: 0px 0px 25px #9D00FF;" />
 </p>
+
 
 ---
 
