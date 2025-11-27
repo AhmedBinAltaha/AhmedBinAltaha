@@ -96,6 +96,7 @@ Here are some of my most important certifications:
 📧 **Email:** Ahmedbinaltaha@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ahmed-taha-2b3a38241/  
 🐙 **Twitter:** https://twitter.com/AhmedBinAlTaha 
+
 📊 **Kaggle:** https://kaggle.com/ahmedelsayedtaha  
 
 
