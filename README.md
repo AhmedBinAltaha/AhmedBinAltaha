@@ -1,19 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Anton&size=46&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Welcome!;I'm+Ahmed+Elsayed+Taha;Junior+Data+Scientist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Anton&size=46&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Welcome!;I'm+Ahmed+Elsayed+Taha;AI+Engineer" />
 </p>
-
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" />
 </p>
-
 
 ---
 
-## 🧑‍💻 About Me
-Junior Data Scientist with strong hands-on experience in **Machine Learning**, **Deep Learning**, and **Data Analysis**.  
+## 🧠 About Me
+**AI Engineer** with strong hands-on experience in **Machine Learning**, **Deep Learning**, and **Computer Vision**.  
 Graduated from **Computer Science & Artificial Intelligence – Benha University (2020–2024)**.  
-Passionate about building predictive models, computer vision systems, and solving real-world problems using AI.
+Passionate about designing intelligent systems, building deep learning models, and solving real-world problems using AI.
 
 ---
 
@@ -28,12 +26,12 @@ Passionate about building predictive models, computer vision systems, and solvin
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly)
 
-### 🔹 Data Science & AI
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow)
+### 🔹 AI & Deep Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=scikitlearn)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?logo=tensorflow)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-2ECC71)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8E44AD)
+![NLP](https://img.shields.io/badge/NLP-2ECC71)
 
 ---
 
@@ -46,48 +44,43 @@ Passionate about building predictive models, computer vision systems, and solvin
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Featured AI Projects
 
 ### 🧠 **Alzheimer’s Disease Classification (4 Classes) — ADNI**
-- Built CNN and InceptionV3 models  
+- CNN & InceptionV3 models  
 - Achieved **99.5%** & **96%** accuracy  
-- Includes preprocessing, augmentation, image normalization  
-**Skills:** Deep Learning, Computer Vision, Medical Imaging  
-🔗 [View Project](https://www.kaggle.com/code/ahmedelsayedtaha/alzheimers-dataset-4-class-adni-using-inceptionv3)
+- Medical image preprocessing & augmentation  
+**Skills:** Deep Learning, Computer Vision, Medical AI  
+🔗 https://www.kaggle.com/code/ahmedelsayedtaha/alzheimers-dataset-4-class-adni-using-inceptionv3
 
 ---
 
-### 🌾 **Rice Image Classification with CNN & Transfer Learning**
-- Models: VGG-16, MobileNetV2, DenseNet201  
-- Applied data augmentations & optimizations  
-**Skills:** Transfer Learning, Deep Learning  
-🔗 [View Project](https://www.kaggle.com/code/ahmedelsayedtaha/rice-classification-by-cnn-3-transfer-learning)
+### 🌾 **Rice Image Classification — Transfer Learning**
+- VGG16, MobileNetV2, DenseNet201  
+- Data augmentation & optimization  
+**Skills:** Transfer Learning, CNN  
+🔗 https://www.kaggle.com/code/ahmedelsayedtaha/rice-classification-by-cnn-3-transfer-learning
 
 ---
 
-### 🤟 **American Sign Language Classification**
-- CNN, VGG16, DenseNet201, MobileNetV2, InceptionV3  
-- Built and evaluated multiple architectures  
+### 🤟 **American Sign Language Recognition**
+- CNN, VGG16, DenseNet201, MobileNetV2  
 **Skills:** Computer Vision, Model Evaluation  
-🔗 [View Project](https://www.kaggle.com/code/ahmedashrafahmed/american-sign-language-by-cnn-4-transfer-learning)
+🔗 https://www.kaggle.com/code/ahmedashrafahmed/american-sign-language-by-cnn-4-transfer-learning
 
 ---
 
 ### 📱 **Mobile Price Classification**
-- Implemented multiple ML algorithms  
-- Feature engineering + EDA + tuning  
+- Multiple ML algorithms + feature engineering  
 **Skills:** Machine Learning, Data Analysis  
-🔗 [View Project](https://www.kaggle.com/code/ahmedelsayedtaha/mobile-price-classification)
+🔗 https://www.kaggle.com/code/ahmedelsayedtaha/mobile-price-classification
 
 ---
 
-## 🎓 Certificates
-Here are some of my most important certifications:
-
+## 🎓 Certifications
 - Machine Learning with Python — Coursera  
 - Data Analysis with Python — Coursera  
-- Data Visualization with Python  
-- Deep Learning, NLP, Time Series — DataCamp (Machine Learning Scientist Track)  
+- Deep Learning, NLP, Time Series — DataCamp  
 - Python — Kaggle  
 
 ---
@@ -95,14 +88,11 @@ Here are some of my most important certifications:
 ## 📬 Contact Me
 📧 **Email:** Ahmedbinaltaha@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ahmed-taha-2b3a38241/  
-🐙 **Twitter:** https://twitter.com/AhmedBinAlTaha 
+🐙 **Twitter:** https://twitter.com/AhmedBinAlTaha  
 📊 **Kaggle:** https://kaggle.com/ahmedelsayedtaha  
-
-
----
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&duration=3000&pause=1500&color=00C7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Feel+free+to+connect+with+me+on+LinkedIn+%F0%9F%94%97;Never+stop+learning+%F0%9F%8C%9F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&duration=3000&pause=1500&color=00C7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+👋;AI+Engineer+in+the+making+🤖;Never+stop+learning+🌟" />
 </p>
