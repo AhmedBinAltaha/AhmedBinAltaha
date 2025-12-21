@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=48&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=1200&lines=Welcome+to+my+GitHub+Profile;I'm+Ahmed+Elsayed+Taha;AI+Engineer+%7C+Computer+Vision+%7C+Deep+Learning" />
 </p>
@@ -96,3 +98,5 @@ Benha University (2020 – 2024)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1500&color=00C7FF&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting+my+profile+👋;Let's+build+intelligent+systems+🤖;Never+stop+learning+🌟" />
 </p>
+
+
