@@ -96,7 +96,12 @@ Benha University (2020 – 2024)
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1500&color=00C7FF&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting+my+profile+👋;Let's+build+intelligent+systems+🤖;Never+stop+learning+🌟" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1500&color=00C7FF&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting+my+profile;Lets+build+intelligent+systems;Never+stop+learning" />
 </p>
+
+<p align="center">
+  👋 🤖 🌟
+</p>
+
 
 
