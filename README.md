@@ -1,7 +1,11 @@
 # Hi there 👋, I'm Ahmed Elsayed Taha
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile;Junior+Data+Scientist;Deep+Learning+%7C+Data+Analysis" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=48&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=1200&lines=Welcome+to+my+GitHub+Profile;I'm+Ahmed+Elsayed+Taha;Junior+Data+Scientist+%7C+Deep+Learning+%7C+Data+Analysis" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="600" />
 </p>
 
 ---
@@ -28,13 +32,13 @@ Benha University (2020 – 2024)
 ![NLP](https://img.shields.io/badge/NLP-2ECC71)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-FF69B4?logo=plotly&logoColor=white)
 
 ### 🔹 Frameworks & Tools
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib)
+![Plotly](https://img.shields.io/badge/Plotly-FF69B4?logo=plotly&logoColor=white)
 
 ---
 
