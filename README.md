@@ -42,7 +42,7 @@ Benha University (2020 – 2024)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedBinAltaha&show_icons=true&theme=tokyonight" height="165"/>
